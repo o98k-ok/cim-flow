@@ -1,3 +1,7 @@
+# NOTE
+
+This repo is closed, if you want more, goto https://github.com/o98k-ok/wallpaper-switch
+
 # cim
 Alfred workflow: change mac desktop background image
 
